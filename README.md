@@ -55,7 +55,7 @@
 欢迎 **Watch** 本仓库获取最新动态。
 
 ## 📄 License
-本项目基于 MIT License 开源，详情请见 [LICENSE](LICENSE) 文件。
+本项目基于 MIT License 开源。
 
 ---
 
